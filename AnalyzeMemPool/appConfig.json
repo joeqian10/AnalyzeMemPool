@@ -1,0 +1,15 @@
+{
+  "ApplicationConfiguration": {
+    "AnalysisPath": "Mempool.csv",
+    "TableHeader": "DateTime,node1,node2,node3,node4,node5,node6,node7",
+    "SeedList": [
+      "47.97.202.176:10013",
+      "47.97.202.176:10023",
+      "47.97.202.176:10033",
+      "47.97.202.176:10043",
+      "47.90.189.186:10053",
+      "47.90.189.186:10063",
+      "47.90.189.186:10073"
+    ]
+  }
+}
